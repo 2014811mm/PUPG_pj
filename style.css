@@ -1,0 +1,16 @@
+h1 {
+    text-align: center;
+    font-size: 40px;
+    color: gold;
+}
+
+h2{
+
+    color:red;
+    font-size: 30px;
+    padding: 10px;
+}
+
+p {
+   color: rgb(98, 0, 255);
+}
